@@ -22,4 +22,4 @@ app.use("/api/interview", interviewRouter)
 
 
 
-module.exports = app
+module.exports = app;
